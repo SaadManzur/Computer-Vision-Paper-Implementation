@@ -32,6 +32,9 @@ for filename in images:
         opencv.imshow(filename, image)
         opencv.waitKey(500)
 
+print(points3d)
+print(points2d)
+
 ret, mtx, dist, rvecs, tvecs = opencv.calibrateCamera(points3d, points2d, gray.shape[::-1], None, None)
 
 print(mtx)
