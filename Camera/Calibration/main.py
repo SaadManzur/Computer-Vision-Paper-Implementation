@@ -2,7 +2,7 @@ import cv2 as opencv
 import numpy as np
 import glob
 
-images = glob.glob('images/Back Camera/*.jpg')
+images = glob.glob('images/Logitech/*.jpg')
 
 CHESS_CELL_DIM = 2.5
 

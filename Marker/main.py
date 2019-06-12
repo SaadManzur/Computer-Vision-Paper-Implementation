@@ -18,7 +18,7 @@ def draw_marker(marker_id):
 
 def locate_marker(marker_id, image_name):
     input_img = opencv.imread(image_name)
-    input_img = opencv.resize(input_img, (int(input_img.shape[1] / 5), int(input_img.shape[0] / 5)))
+    #input_img = opencv.resize(input_img, (int(input_img.shape[1] / 5), int(input_img.shape[0] / 5)))
 
     corners, ids, rejected_img_points = opencv.aruco.detectMarkers(input_img, marker_dictionary)
 
@@ -36,4 +36,4 @@ def locate_marker(marker_id, image_name):
 
 
 if __name__ == '__main__':
-    locate_marker(20, '4089_marker.jpg')
+    locate_marker(20, 'engg_m_test5.jpg')
