@@ -1,3 +1,11 @@
+"""
+Projection matrix recovery using planar homography between model and image plane using Zhang's
+method.
+
+Python: 3.6
+OpenCV: 3.4.2
+"""
+
 import cv2 as opencv
 import numpy as np
 

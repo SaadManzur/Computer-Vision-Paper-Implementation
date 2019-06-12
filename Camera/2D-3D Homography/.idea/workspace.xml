@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14f6697d-6dd8-4b67-a6b9-ba570cfedccf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../Marker/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Background Subtraction/Ahmed Elgammal/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Background Subtraction/Ahmed Elgammal/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Calibration/images/2019-05-0906:56:05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Calibration/images/2019-05-0906:56:13.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Calibration/images/2019-05-0906:56:19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Calibration/images/2019-05-0906:56:24.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Calibration/images/2019-05-0906:56:28.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Calibration/images/2019-05-0906:56:32.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Calibration/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="196">
-              <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+            <state relative-caret-position="162">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
@@ -90,6 +82,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -171,16 +164,17 @@
       <updated>1560297468744</updated>
       <workItem from="1560297469877" duration="2456000" />
       <workItem from="1560301603655" duration="7053000" />
+      <workItem from="1560309195253" duration="122000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9509000" />
+    <option name="totallyTimeSpent" value="9631000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="30" width="1920" height="1050" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13636364" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13796791" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -223,8 +217,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="80" column="29" lean-forward="true" selection-start-line="80" selection-start-column="29" selection-end-line="80" selection-end-column="29" />
+        <state relative-caret-position="162">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
